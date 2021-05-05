@@ -11,7 +11,6 @@ Hola soy desarrollador de software y un apasionado por la programación ya que e
   - JavaScript
     - Angular
       -RxJs
-    - React
     
   - MySQL
   
