@@ -10,7 +10,7 @@ Hola soy desarrollador de software y un apasionado por la programación ya que e
   - Java
     - Springboot
 
-  -Python
+ - Python
   
   - JavaScript
     - Angular
