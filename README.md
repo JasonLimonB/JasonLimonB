@@ -9,7 +9,9 @@ Hola soy desarrollador de software y un apasionado por la programación ya que e
 ## Algunas tecnologias que manejo son
   - Java
     - Springboot
-   
+
+  -Python
+  
   - JavaScript
     - Angular
       -RxJs
